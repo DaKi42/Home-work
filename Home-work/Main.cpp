@@ -16,7 +16,7 @@ public:
 		name = nullptr;
 		surname = nullptr;
 		middleName = nullptr;
-		homePhone = nullptr;
+		homePhone = nullptr; 
 		workPhone = nullptr;
 		mobilePhone = nullptr;
 		addInfo = nullptr;
